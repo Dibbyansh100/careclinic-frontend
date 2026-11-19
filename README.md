@@ -6,7 +6,7 @@ A React-based healthcare appointment interface with dedicated portals for **Pati
 **Backend:** Java · Spring Boot · Spring Security · REST APIs · Spring Data JPA · PostgreSQL
 
 **Live frontend (deployment link):** [CareClinic](https://doctor-appointment-project0-fronten.vercel.app/)  
-**Backend source:** [DoctorAppointment_Project0](https://github.com/Dibbyansh100/DoctorAppointment_Project0)
+**Backend source:** [DoctorAppointment_Project0](https://github.com/Dibbyansh100/careclinic-backend)
 
 ## ✨ Features
 
@@ -57,7 +57,7 @@ The following screenshots demonstrate the public website and the three role-base
 - The CareClinic Spring Boot backend running locally if you want to use the API-backed features
 
 ```bash
-git clone https://github.com/Dibbyansh100/DoctorAppointment_Project0_Frontend.git
+git clone https://github.com/Dibbyansh100/careclinic-frontend.git
 cd DoctorAppointment_Project0_Frontend
 npm install
 ```
