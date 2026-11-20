@@ -1,6 +1,6 @@
 # 🏥 CareClinic — Healthcare Appointment Portal
 
-A React-based healthcare appointment interface with dedicated portals for **Patients**, **Doctors**, and **Administrators**. The frontend connects to a Spring Boot backend for authentication, clinical record management, and appointment scheduling.
+A React-based healthcare appointment interface with dedicated portals for **Patients**, **Doctors**, and **Administrators**. The frontend connects to a Spring Boot backend for authentication, doctor and patient management, and appointment scheduling.
 
 **Frontend:** React 18 · JavaScript · React Router 6 · Axios · Tailwind CSS · Vite  
 **Backend:** Java · Spring Boot · Spring Security · REST APIs · Spring Data JPA · PostgreSQL
